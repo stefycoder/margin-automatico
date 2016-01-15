@@ -1,0 +1,28 @@
+.clase1{
+	background-color: white;
+	height: 180px;
+	width: 200px;
+	border: 8px solid #FCF632;
+	margin: 10px;
+	text-align: center;
+	padding: 8px 40px 20px 40px;
+}
+.izq{
+	text-align: center;
+	margin:10px 20px 10px 20px;
+}
+.clase2{
+	background-color: white;
+	height: 180px;
+	width: 200px;
+	border: 8px solid #FCF632;
+	margin: auto;
+	text-align: left;
+	padding: 8px 40px 20px 40px;
+}
+.cen{
+	text-align: left;
+	margin:10px 20px 10px 20px;
+}
+
+/* Agrega aqui tu CSS */
